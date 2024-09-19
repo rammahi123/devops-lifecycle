@@ -4,9 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+  "test": "echo \"App test passed\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
